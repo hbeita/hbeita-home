@@ -1,3 +1,5 @@
+[![CodeQL](https://github.com/hbeita/hbeita-home/actions/workflows/codeql-analysis.yml/badge.svg?branch=main)](https://github.com/hbeita/hbeita-home/actions/workflows/codeql-analysis.yml)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
